@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+body{
+  background-color: #7c7c7c;
+}
+.content{
+  border-width: medium;
+  margin-left: 250px;
+  font-family: 'Open Sans', sans-serif;
+  background: #fff;
+  width: 750px;
+  padding: 10px;
+}
+.form_member{
+  background-color: #fff;
+  width: 750px;
+  padding: 10px;
+  font-size: 16px;
+  margin-left: 250px;
+  margin-top: 25px;
+}
+.radio-tipe{
+  margin-left: 100px;
+}
+.input-standart{
+  background-color: #fff;
+  width: 300px;
+  margin-left: 150px;
+  font-family: 'Opens Sans', sans-serif;
+	padding: 5px;
+	font-size:   12pt;
+	margin-bottom: 10px;
+}
+.input-standart2{
+  background-color: #fff;
+  width: 300px;
+  margin-left: 100px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.input-standart3{
+  width: 300px;
+  margin-left: 45px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.input-area{
+  width: 300px;
+  margin-left: 90px;
+  font-family: 'Open Sans', sans-serif;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+.input-standart4{
+
+  width: 200px;
+  margin-left: 80px;
+  padding: 5px;
+  margin-bottom: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+.input-standart5{
+
+    width: 300px;
+    margin-left: 80px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.input-standart6{
+
+    width: 200px;
+    margin-left: 105px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.input-standart7{
+
+    width: 300px;
+    margin-left: 55px;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.input-standart8{
+
+      width: 300px;
+      margin-left: 20px;
+      padding: 5px;
+      margin-bottom: 10px;
+      font-family: 'Open Sans', sans-serif;
+}
+legend{
+  background-color: #107139;
+  color: #fff;
+  padding: 5px;
+  margin-bottom: 10px;
+}

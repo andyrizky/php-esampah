@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
+body{
+	background-color: #fff;
+}
+.text-h1{
+	color: #107139;
+	margin-top : 50px;
+	padding-bottom: 5px;
+	font-family: 'Open Sans', sans-serif;
+}
+.form_login{
+	width: 350px;
+	background: white;
+	margin: 30px auto;
+	padding: 30px 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+.input_username{
+	border: none;
+	border-bottom: 2px solid grey;
+	width: 100%;
+	font-family: 'Opens Sans', sans-serif;
+	padding: 10px;
+	font-size: 16pt;
+	margin-bottom: 20px;
+}
+#i-password{
+	border: none;
+	border-bottom: 2px solid grey;
+	width: 100%;
+	font-family: 'Opens Sans', sans-serif;
+	padding: 10px;
+	font-size: 16pt;
+	margin-bottom: 20px;
+}
+.btn_login{
+	background: #107139;
+	color: white;
+	font-size: 16pt;
+	font-family: 'Open Sans', sans-serif;
+	width: 100%;
+	border: none;
+	border-radius: 10px;
+	padding: 10px 20px;
+}
+.image{
+	margin-top: : 30px auto;
+}
+input{
+	font-family: 'Open Sans', sans-serif;
+}
+a{
+	font-family: 'Open Sans', sans-serif;
+	color: #107139;
+	border: none;
+
+}
+.font{
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	border: none;
+
+}
